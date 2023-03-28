@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-28T05:23:06.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="yGzFIkXoyS9kCfLlcTRo" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-28T05:44:30.284Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="EDvVyrK0AxahmrxCoVPk" version="21.1.1" type="github">
   <diagram id="ECk1vB-14uT8qfyKKq9Q" name="Correct type of traffic">
     <mxGraphModel dx="1687" dy="899" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="_eH64ukMAUpOI5kwFavp-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;dashed=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_eH64ukMAUpOI5kwFavp-10" target="_eH64ukMAUpOI5kwFavp-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_eH64ukMAUpOI5kwFavp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="_eH64ukMAUpOI5kwFavp-10" target="_eH64ukMAUpOI5kwFavp-12">
+        <mxCell id="_eH64ukMAUpOI5kwFavp-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="_eH64ukMAUpOI5kwFavp-10" target="_eH64ukMAUpOI5kwFavp-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_eH64ukMAUpOI5kwFavp-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=none;endFill=0;" edge="1" parent="1" source="_eH64ukMAUpOI5kwFavp-10">
