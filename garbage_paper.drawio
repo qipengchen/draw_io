@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T04:19:59.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bcl1n2H4rhj7j1ehV_Mi" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-31T05:05:46.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tUrruVAdznt9u1vVFfiP" version="21.1.1" type="github" pages="2">
   <diagram name="框架" id="OGnDkvJL42xPrGmm1Utj">
     <mxGraphModel dx="2731" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-17" value="Higher-order models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="50" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bTtFAIyzNLOjN1qWeBd-19" value="(a) Diagram of mixture&amp;nbsp;hierarchical framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4bTtFAIyzNLOjN1qWeBd-19" value="(a) Diagram of MH framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-55" y="460" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
