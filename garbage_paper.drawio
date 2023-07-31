@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-07-31T05:05:46.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tUrruVAdznt9u1vVFfiP" version="21.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-31T07:02:18.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="tSOwvmwO3ROOdyuNvELa" version="21.1.1" type="github" pages="2">
   <diagram name="框架" id="OGnDkvJL42xPrGmm1Utj">
-    <mxGraphModel dx="2731" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2669" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,7 +62,7 @@
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-17" value="Higher-order models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="50" width="112.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bTtFAIyzNLOjN1qWeBd-19" value="(a) Diagram of MH framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4bTtFAIyzNLOjN1qWeBd-19" value="(a) Diagram of MH framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="-55" y="460" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -139,7 +139,7 @@
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-38" value="$$\upsilon_n$$" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="959" y="220" width="52.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="4bTtFAIyzNLOjN1qWeBd-39" value="(b) Diagram of SA+E framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="4bTtFAIyzNLOjN1qWeBd-39" value="(b) Diagram of SA+E framework" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="559" y="460" width="430" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4bTtFAIyzNLOjN1qWeBd-40" value="Higher-order models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
@@ -170,7 +170,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lS-dwkagasM95WuxD9at" name="DINA+E">
-    <mxGraphModel dx="1562" dy="1657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1500" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -200,7 +200,7 @@
         <mxCell id="rM3TlN1IYJunp9uwzw3K-7" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;$$P(Y_{ni} ) = (1-s_i-g_i) \prod_1^K \alpha_{nk}^{q_{ik}} +g_i$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="120" y="518" width="275" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rM3TlN1IYJunp9uwzw3K-8" value="$$log(RT_{ni}) \sim N(\beta_i - \tau_n, 1/\omega_i^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
+        <mxCell id="rM3TlN1IYJunp9uwzw3K-8" value="$$\text{ln&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}(RT_{ni}) \sim N(\beta_i - \tau_n, 1/\omega_i^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="121.25" y="592" width="272.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rM3TlN1IYJunp9uwzw3K-9" value="measurement models for engaged bahavior" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -280,7 +280,7 @@
         <mxCell id="STB15cC-7emokYP_P-Dr-37" value="measurement models &lt;br&gt;for RGB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="682" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="STB15cC-7emokYP_P-Dr-40" value="$$log(RT_{ni}) \sim N(\mu_c, \sigma_c^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
+        <mxCell id="STB15cC-7emokYP_P-Dr-40" value="$$\text{ln&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;}(RT_{ni}) \sim N(\mu_c, \sigma_c^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="603.75" y="592" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STB15cC-7emokYP_P-Dr-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" target="STB15cC-7emokYP_P-Dr-44">
@@ -309,7 +309,7 @@
         <mxCell id="STB15cC-7emokYP_P-Dr-46" value="&lt;div style=&quot;border-color: var(--border-color); font-size: 18px;&quot;&gt;$$P(Y_{ni} ) = (1-s_i-g_i) \prod_1^K \alpha_{nk}^{q_{ik}} +g_i$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="130" y="-54" width="275" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="STB15cC-7emokYP_P-Dr-47" value="$$log(RT_{ni}) \sim N(\beta_i - \tau_n, 1/\omega_i^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
+        <mxCell id="STB15cC-7emokYP_P-Dr-47" value="$$\text{ln&lt;br&gt;}(RT_{ni}) \sim N(\beta_i - \tau_n, 1/\omega_i^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="131.25" y="20" width="272.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STB15cC-7emokYP_P-Dr-48" value="measurement models for engaged bahavior" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -318,7 +318,7 @@
         <mxCell id="STB15cC-7emokYP_P-Dr-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="590" y="-70" width="240" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="STB15cC-7emokYP_P-Dr-50" value="$$P(Y_{ni} ) =d_i$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=2;opacity=60;" vertex="1" parent="1">
+        <mxCell id="STB15cC-7emokYP_P-Dr-50" value="$$P(Y_{ni} ) =g_i$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="-54" width="187.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="STB15cC-7emokYP_P-Dr-51" value="measurement models &lt;br&gt;for RGB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
@@ -357,7 +357,7 @@
         <mxCell id="STB15cC-7emokYP_P-Dr-66" value="measurement models &lt;br&gt;for RGB" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="607.5" y="110" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="STB15cC-7emokYP_P-Dr-67" value="$$log(RT_{ni}) \sim N(\mu_c, \sigma_c^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
+        <mxCell id="STB15cC-7emokYP_P-Dr-67" value="$$\text{ln&lt;br&gt;&lt;br&gt;}(RT_{ni}) \sim N(\mu_c, \sigma_c^2)$$" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=18;strokeWidth=2;opacity=60;" vertex="1" parent="1">
           <mxGeometry x="613.75" y="20" width="185" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rLwMXcEuYqJB-eRIKyxM-1" value="(a) Diagram of RT-DINA-RG model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
