@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-27T04:22:51.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="rny6Qq0T1uFqQrxozYFK" version="21.6.9" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-08-27T09:32:41.062Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="oHhS0JuJf-vD1ZnSoBGY" version="21.6.9" type="github" pages="5">
   <diagram id="XUikvqKDauEy0iFDmqL3" name="proposal figure">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="fXXphPQZ6tuGrD_EPGZU-19" value="RT: LRTM" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;strokeWidth=2;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="295" y="400" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fXXphPQZ6tuGrD_EPGZU-20" value="FC: NBFCM" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;strokeWidth=2;opacity=60;" parent="1" vertex="1">
+        <mxCell id="fXXphPQZ6tuGrD_EPGZU-20" value="FC: NBFM" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=22;strokeWidth=2;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="265" y="467" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ikaAS8-zeybQjiVi5GdJ-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
