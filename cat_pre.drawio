@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T13:04:47.703Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="el_1xKLzJRSa0-o4r-Mv" version="21.6.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-04T13:07:28.882Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="DOy33DHcJ4ABFxm0MaCr" version="21.6.9" type="github" pages="7">
   <diagram id="XUikvqKDauEy0iFDmqL3" name="proposal figure">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -485,7 +485,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="rlUyRY_102hd8zuC-1nY" name="第 7 页">
-    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1434" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -619,7 +619,7 @@
         <mxCell id="3tkK7UBIUF4ppHZ2a4sq-54" value="key和non-key的RT和FC与学生本身特质无关" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1200" y="600" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-55" value="key的RT和FC与学生本身特质无关" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-55" value="key的RT和FC与学生本身特质无关" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1200" y="680" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3tkK7UBIUF4ppHZ2a4sq-56" value="key和non-key的RT和FC均与学生本身特质有关" style="whiteSpace=wrap;html=1;rounded=0;fontSize=18;fontStyle=1" vertex="1" parent="1">
