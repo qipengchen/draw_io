@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T12:57:34.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="z7-3WjSo7YqDZ7QdlYt-" version="21.6.9" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-09-04T12:59:28.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="MaaojzUcp2TMrxT-0xx8" version="21.6.9" type="github" pages="7">
   <diagram id="XUikvqKDauEy0iFDmqL3" name="proposal figure">
     <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -527,13 +527,13 @@
         <mxCell id="3tkK7UBIUF4ppHZ2a4sq-14" value="$$logit(P(\phi_{ni&lt;br style=&quot;font-size: 21px;&quot;&gt;})) = \eta_n- \zeta_i $$" style="ellipse;whiteSpace=wrap;html=1;fontSize=21;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="765" y="130" width="285" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-23" value="Normally response" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-23" value="Normally response" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-24" value="Preknowledge without key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="680" y="450" width="220" height="30" as="geometry" />
+        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-24" value="Preknowledge without key" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="654" y="450" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-25" value="Preknowledge with key" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="3tkK7UBIUF4ppHZ2a4sq-25" value="Preknowledge with key" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1100" y="450" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3tkK7UBIUF4ppHZ2a4sq-30" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Times New Roman;" vertex="1" parent="1">
