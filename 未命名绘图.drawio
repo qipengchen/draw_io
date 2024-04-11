@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T06:54:42.831Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="w-adKFLV7c4YsMk0rb31" version="22.1.9" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-11T06:33:58.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qEATFtdg2BbecAZpyVjQ" version="22.1.18" type="github" pages="4">
   <diagram name="第 1 页" id="Y6NeB6YuhVJnNUALUvzM">
-    <mxGraphModel dx="1420" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -122,6 +122,29 @@
         </mxCell>
         <mxCell id="xFs45822GaQPqwtYCmJl-20" value="过滤异常作答&lt;br&gt;重新估计参数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="_RZNjV9nB0szxXRcyJ68" name="第 4 页">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="WjKTgSu6Vs2_y1iypjik-2" target="WjKTgSu6Vs2_y1iypjik-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-2" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;RA&lt;br style=&quot;font-size: 22px;&quot;&gt;log(RT)&lt;br style=&quot;font-size: 22px;&quot;&gt;log(FC)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="30" y="357.5" width="110" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="WjKTgSu6Vs2_y1iypjik-3" target="WjKTgSu6Vs2_y1iypjik-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-3" value="Normalization&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-5" value="Calinski-Harabasz&lt;br style=&quot;font-size: 22px;&quot;&gt;calculation" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="357.5" width="180" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
