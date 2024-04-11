@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-11T06:33:58.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qEATFtdg2BbecAZpyVjQ" version="22.1.18" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-11T06:47:21.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9y9CEzsvX-LoZfuuitOR" version="22.1.18" type="github" pages="4">
   <diagram name="第 1 页" id="Y6NeB6YuhVJnNUALUvzM">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -140,7 +140,7 @@
         <mxCell id="WjKTgSu6Vs2_y1iypjik-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=22;strokeWidth=2;fontFamily=Times New Roman;" edge="1" parent="1" source="WjKTgSu6Vs2_y1iypjik-3" target="WjKTgSu6Vs2_y1iypjik-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WjKTgSu6Vs2_y1iypjik-3" value="Normalization&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="WjKTgSu6Vs2_y1iypjik-3" value="Min-Max&lt;br&gt;Normalization&lt;span class=&quot;eusoft-eudic-chrome-extension-translate-content&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WjKTgSu6Vs2_y1iypjik-5" value="Calinski-Harabasz&lt;br style=&quot;font-size: 22px;&quot;&gt;calculation" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;fontSize=22;fontFamily=Times New Roman;" vertex="1" parent="1">
