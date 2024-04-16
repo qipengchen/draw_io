@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T04:01:37.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.72 Safari/537.36" etag="vKv-K5EhfX_0ooP-b9sd" version="21.6.6" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-16T10:58:59.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jHuiOpHG01Gu93GfbZ1W" version="24.2.5" type="github" pages="10">
   <diagram name="RT-DINA-RG" id="OGnDkvJL42xPrGmm1Utj">
-    <mxGraphModel dx="1434" dy="1591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="957" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,6 +823,47 @@
         </mxCell>
         <mxCell id="kKV0o2we1cb4M-Ba0l_r-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=4;dashed=1;strokeColor=#CC0000;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="430" width="197.5" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="K48mVwNLzRuiJKlQaIZd" name="第 10 页">
+    <mxGraphModel dx="957" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-1" target="hG_r9o4Gt43aZWQ51l72-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-1" target="hG_r9o4Gt43aZWQ51l72-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-1" target="hG_r9o4Gt43aZWQ51l72-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-1" value="数据预处理&lt;br&gt;(Max-Min)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-2" target="hG_r9o4Gt43aZWQ51l72-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-2" value="DINA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="120" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-4" target="hG_r9o4Gt43aZWQ51l72-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-4" value="DINA Based Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;" edge="1" parent="1" source="hG_r9o4Gt43aZWQ51l72-6" target="hG_r9o4Gt43aZWQ51l72-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-6" value="Rpa-DINA Based Model" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="470" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-9" value="Model Fit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="294" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
