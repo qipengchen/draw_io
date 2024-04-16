@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T11:13:59.990Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Bqkn2DkKoadZulLIEpz4" version="24.2.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-16T11:14:57.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="o4DftibqVNgydyugb6wm" version="24.2.5" type="github" pages="10">
   <diagram name="RT-DINA-RG" id="OGnDkvJL42xPrGmm1Utj">
     <mxGraphModel dx="957" dy="1477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -863,19 +863,19 @@
           <mxGeometry x="340" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hG_r9o4Gt43aZWQ51l72-9" value="Model Fit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="164" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="164" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hG_r9o4Gt43aZWQ51l72-16" value="$$g=logit(f(time))$$&lt;div style=&quot;font-size: 14px;&quot;&gt;$$s&amp;lt;=1-max(g)$$&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="440" width="220" height="60" as="geometry" />
+          <mxGeometry x="500" y="260" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hG_r9o4Gt43aZWQ51l72-18" value="$$logit(g)=\beta=f(time)$$&lt;div style=&quot;font-size: 14px;&quot;&gt;$$logit(g)=\lambda=exp( f(time))$$&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="220" height="70" as="geometry" />
+          <mxGeometry x="500" y="380" width="220" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hG_r9o4Gt43aZWQ51l72-19" value="DINA Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="560" y="290" width="120" height="30" as="geometry" />
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-19" value="Rpa-DINA Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hG_r9o4Gt43aZWQ51l72-20" value="Rpa-DINA Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="570" y="405" width="120" height="30" as="geometry" />
+        <mxCell id="hG_r9o4Gt43aZWQ51l72-20" value="DINA Based" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="550" y="225" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
