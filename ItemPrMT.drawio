@@ -165,7 +165,7 @@
         <mxCell id="1ayt2ysLPLX0P73qI2RJ-22" value="Joint Mixture Modeling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=18;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="836.73" y="130.91" width="183.27" height="19.09" as="geometry" />
         </mxCell>
-        <mxCell id="1ayt2ysLPLX0P73qI2RJ-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+        <mxCell id="1ayt2ysLPLX0P73qI2RJ-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;dashed=1;strokeWidth=2;exitX=1;exitY=0.25;exitDx=0;exitDy=0;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="540.0000000000002" y="165.5" as="sourcePoint" />
             <mxPoint x="730" y="166" as="targetPoint" />
