@@ -60,6 +60,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LdfGX_S3GA8jF4STTDH1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=3;fillColor=none;strokeColor=#36393d;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="310" width="460" height="470" as="geometry" />
+        </mxCell>
         <mxCell id="LdfGX_S3GA8jF4STTDH1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="LdfGX_S3GA8jF4STTDH1-1" target="LdfGX_S3GA8jF4STTDH1-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -73,13 +76,16 @@
           <mxGeometry x="-450" y="525" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LdfGX_S3GA8jF4STTDH1-4" value="Review by&amp;nbsp;&lt;span style=&quot;font-size: 19px; background-color: initial;&quot;&gt;experts (10)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="470" width="220" height="30" as="geometry" />
+          <mxGeometry x="-330" y="470" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LdfGX_S3GA8jF4STTDH1-5" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: 400; font-stretch: normal; font-size: 16px; line-height: normal; color: rgb(14, 14, 14);&quot; class=&quot;p1&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 19px; font-weight: 700;&quot;&gt;Number of item&lt;/span&gt;&lt;b&gt;&lt;br&gt;31&lt;/b&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=1;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;align=center;" vertex="1" parent="1">
           <mxGeometry x="-450" y="690" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LdfGX_S3GA8jF4STTDH1-7" value="Cross loaded (7) &lt;br&gt;or not loaded (2)&lt;br&gt;in the PCA analysis&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="585" width="200" height="100" as="geometry" />
+        <mxCell id="LdfGX_S3GA8jF4STTDH1-7" value="Cross loaded (7) &lt;br&gt;or not loaded (2)&lt;br&gt;in PCA&amp;nbsp;&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="585" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LdfGX_S3GA8jF4STTDH1-11" value="&lt;p style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-weight: 400; font-stretch: normal; font-size: 23px; line-height: normal; color: rgb(14, 14, 14);&quot; class=&quot;p1&quot;&gt;&lt;b style=&quot;font-size: 23px;&quot;&gt;Exploratory Analysis&lt;/b&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontStyle=1;strokeWidth=2;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="320" width="370" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
