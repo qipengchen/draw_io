@@ -250,10 +250,10 @@
             <mxPoint x="460" y="595" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F6Zsgci7_tW3JuEcHdAi-3" value="Solid Line&lt;br&gt;Factor 1&lt;br&gt;AVE&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="F6Zsgci7_tW3JuEcHdAi-3" value="Solid Arrow&lt;br&gt;Factor 1&lt;br&gt;AVE&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="340.5" y="645" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="F6Zsgci7_tW3JuEcHdAi-4" value="Dashed Line&lt;br&gt;Factor 1&lt;br style=&quot;font-size: 18px;&quot;&gt;SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="F6Zsgci7_tW3JuEcHdAi-4" value="Dashed Arrow&lt;br&gt;Factor 1&lt;br style=&quot;font-size: 18px;&quot;&gt;SIC" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="570" y="645" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
