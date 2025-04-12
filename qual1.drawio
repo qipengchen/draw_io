@@ -1,9 +1,114 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="_ISkt7B0wOQ3aFmSWoyG">
-    <mxGraphModel>
+    <mxGraphModel dx="975" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="310" y="80" width="180" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-3" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#0d5b9d, #ededed);" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-2">
+          <mxGeometry width="180" height="431.25" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-4" value="&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;1.What failure experiences do novice teachers encounter in early teaching?&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;2.How do failure experiences affect teacher self-efficacy and professional confidence?&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0px; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; padding-bottom: 20px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3.What coping strategies do novice teachers adopt?&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm 0cm 0px; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif; padding-bottom: 20px;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;4.How do different strategies impact the recovery or enhancement of self-efficacy?&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-2">
+          <mxGeometry x="18.94736842105263" width="142.10526315789474" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-5" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#EFAC43,#EDEDED);" vertex="1" parent="1">
+          <mxGeometry x="30" y="24" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-6" value="&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;1.Reveal the impact mechanism of failure experiences on teachers’ emotions and self-efficacy.&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;2.Summarize effective coping strategies for novice teachers.&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;3.Provide practical guidance and theoretical support for teacher training and professional development.&lt;i&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="45" y="29" width="190" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-8" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="60" y="370" width="230" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-9" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#AB211C,#EDEDED);" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-8">
+          <mxGeometry x="-30" width="230.00000000000003" height="230.95833333333334" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-11" value="&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;1. Semi-structured interviews&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;2. Teacher Self-Efficacy Scale&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;3. Narrative inquiry&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;4. Holistic and categorical methods (open coding, axial coding, selective coding)&lt;i&gt;&lt;/i&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-8">
+          <mxGeometry x="-15" y="25.48" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-27" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Mthods&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontFamily=Helvetica;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-8">
+          <mxGeometry x="60.00049382716048" y="250" width="92.5925925925926" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="29" width="240" height="211" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-13" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#55BFE0,#EDEDED);" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-12">
+          <mxGeometry width="240" height="202.20833333333331" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-19" value="&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;1.&amp;nbsp;&lt;a style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; name=&quot;OLE_LINK11&quot;&gt;Literature on Teacher Self-Efficacy and Failure Experiences&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;a style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; name=&quot;OLE_LINK11&quot;&gt;&lt;br&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;a style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot; name=&quot;OLE_LINK11&quot;&gt;2.&amp;nbsp;&lt;/a&gt;&lt;span style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Personal Teaching Experience&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;a name=&quot;OLE_LINK11&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-12">
+          <mxGeometry x="20" y="1" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="530" y="350" width="230" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-16" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=#57B958;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-15">
+          <mxGeometry x="20" y="30" width="230" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-18" value="&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;1. Data triangulation&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;2.&amp;nbsp;&lt;span style=&quot;font-size: 12pt; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Employ established instruments and systematic coding&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0cm; font-size: 12pt; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;/i&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="WIQ-WVLzsetyJ84mRcnb-15">
+          <mxGeometry x="40" y="45.48000000000002" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-24" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Research&lt;br&gt;Questions&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="350.0004938271605" y="-20" width="92.5925925925926" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-25" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Conceptual&lt;br&gt;Framework&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="613.7004938271605" y="-20" width="92.5925925925926" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-26" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Goals&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="70.00049382716048" y="-20" width="92.5925925925926" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-28" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Validity&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#999999;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="593.7004938271605" y="620" width="92.5925925925926" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.008;entryY=0.134;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.009;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-5" target="WIQ-WVLzsetyJ84mRcnb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="220" as="sourcePoint" />
+            <mxPoint x="460" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.009;entryY=0.786;entryDx=0;entryDy=0;exitX=1;exitY=0.779;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=2;strokeColor=#999999;entryPerimeter=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-9" target="WIQ-WVLzsetyJ84mRcnb-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="552" as="sourcePoint" />
+            <mxPoint x="530" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-31" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.474;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;strokeColor=#999999;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-5" target="WIQ-WVLzsetyJ84mRcnb-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="272" y="78" as="sourcePoint" />
+            <mxPoint x="512" y="76" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#999999;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="250" as="sourcePoint" />
+            <mxPoint x="660" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#999999;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.011;entryY=0.315;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-5" target="WIQ-WVLzsetyJ84mRcnb-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="241" as="sourcePoint" />
+            <mxPoint x="650" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-34" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#999999;exitX=1.011;exitY=0.819;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-3" target="WIQ-WVLzsetyJ84mRcnb-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="498" y="440" as="sourcePoint" />
+            <mxPoint x="530" y="482" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#999999;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.564;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-3" target="WIQ-WVLzsetyJ84mRcnb-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="502" y="443" as="sourcePoint" />
+            <mxPoint x="500" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WIQ-WVLzsetyJ84mRcnb-36" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=2;strokeColor=#999999;exitX=0.006;exitY=0.798;exitDx=0;exitDy=0;entryX=1;entryY=0.416;entryDx=0;entryDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="WIQ-WVLzsetyJ84mRcnb-3" target="WIQ-WVLzsetyJ84mRcnb-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="502" y="443" as="sourcePoint" />
+            <mxPoint x="540" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
