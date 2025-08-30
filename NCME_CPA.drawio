@@ -322,7 +322,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-51" value="&lt;b&gt;Higher Order Structure:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="555" y="440" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-56" value="$$P(\Delta{tni}) = \psi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-56" value="$$P(\Delta_{tni}) = \psi$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="562.75" y="495" width="92.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-58" value="Item Compromised" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1" vertex="1" parent="1">
