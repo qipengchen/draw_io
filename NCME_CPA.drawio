@@ -208,7 +208,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xb_QVjPftWUjVfuzGZ-A" name="Model fomula">
-    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1793" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +233,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-3" value="&lt;b&gt;Response Time:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
           <mxGeometry x="4" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-4" value="$$\log T_{tni} \sim \mathcal{N} (\beta_i - \tau_{tn}, \frac{1}{\omega^2}) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-4" value="$$\log T_{tni} \sim \mathcal{N} (\beta_i - \tau_{tn}, \frac{1}{\omega_i^2}) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-14" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
@@ -242,7 +242,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-5" value="&lt;b&gt;Fxiation Count:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
           <mxGeometry x="-5" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-6" value="$$FC \sim \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h_i)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-6" value="$$FC \sim \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), \frac{1}{d_i^2})$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
           <mxGeometry x="11" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-15" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
@@ -284,7 +284,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-48" value="&lt;b&gt;Fxiation Count:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="350" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$\begin{cases} \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h_i), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}( \exp (m_c),h_c), &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$\begin{cases} \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), \frac{1}{d_i^2}), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}( \exp (m_c),d_c), &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="380" width="305" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-55" value="$$(\theta_{tn},\,\tau_{tn},\,\epsilon_{tn})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -304,6 +304,15 @@
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-64" value="&lt;b style=&quot;font-size: 25px;&quot;&gt;Compromised&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="373.79999999999995" y="74.5" width="220.84" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="EzXRyRb6K5loopKjNpa5-1" value="\(\theta\): Latent ability&lt;br&gt;\(a\): Item Discrimination&lt;br&gt;\(b\): Item Difficulty" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="200" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EzXRyRb6K5loopKjNpa5-2" value="\(\beta\): Time Intensity&lt;br&gt;\(\tau\): Latent speed&lt;br&gt;\(\omega\): Time Discrimination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="290" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="EzXRyRb6K5loopKjNpa5-3" value="\(m\): Visual Intensity&lt;br&gt;\(\tau\): Latent speed&lt;br&gt;\(d\): Visual Discrimination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="380" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
