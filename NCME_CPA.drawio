@@ -311,7 +311,7 @@
         <mxCell id="EzXRyRb6K5loopKjNpa5-2" value="\(\beta\): Time Intensity&lt;br&gt;\(\tau\): Latent speed&lt;br&gt;\(\omega\): Time Discrimination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-130" y="290" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EzXRyRb6K5loopKjNpa5-3" value="\(m\): Visual Intensity&lt;br&gt;\(\tau\): Latent speed&lt;br&gt;\(d\): Visual Discrimination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="EzXRyRb6K5loopKjNpa5-3" value="\(m\): Visual Intensity&lt;br&gt;\(\epsilon\): Engagement&lt;br&gt;\(d\): Visual Discrimination" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="-130" y="380" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
