@@ -41,7 +41,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-98" value="$$\Delta_{tni}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-98" value="$$\Delta_{tn}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="590" y="405" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.014;entryY=0.457;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-98" target="rplJDwAlL-Y5qZSeV7_r-74" edge="1">
@@ -284,7 +284,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-48" value="&lt;b&gt;Fxiation Count:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="350" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$\begin{cases} \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h_i), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}(m_c,h_c), &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$\begin{cases} \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h_i), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}( \exp (m_c),h_c), &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="325" y="380" width="305" height="50" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-55" value="$$(\theta_{tn},\,\tau_{tn},\,\epsilon_{tn})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
