@@ -16,10 +16,10 @@
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-2" value="$$D_2$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="155" y="410" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-7" value="$$D_k$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-7" value="$$D_\kappa$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="265" y="410" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-8" value="$$D_{k+1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-8" value="$$D_{\kappa+1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="325" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-9" value="$$D_{L-1}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -29,16 +29,18 @@
           <mxGeometry x="515" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-11" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="205" y="410" width="60" height="30" as="geometry" />
+          <mxGeometry x="210" y="420" width="45" height="20" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-13" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=1;fillColor=none;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="385" y="410" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-98" target="rplJDwAlL-Y5qZSeV7_r-88" edge="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;exitX=0.38;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-98" target="rplJDwAlL-Y5qZSeV7_r-88" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="610" y="545" />
+              <mxPoint x="610" y="450" />
+              <mxPoint x="610" y="594" />
             </Array>
+            <mxPoint x="610" y="503.4948974278318" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-98" value="$$\Delta_{tn}$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
@@ -150,34 +152,34 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-88" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;dashed=1;fillColor=none;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="365" y="460" width="210" height="170" as="geometry" />
+          <mxGeometry x="365" y="509" width="210" height="170" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-77" target="rplJDwAlL-Y5qZSeV7_r-78" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-77" value="$$\gamma$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="380" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="380" y="609" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-78" value="$$Y_{tn}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="375" y="490" width="50" height="40" as="geometry" />
+          <mxGeometry x="375" y="539" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-80" target="rplJDwAlL-Y5qZSeV7_r-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-80" value="$$\mu_c$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="450" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="450" y="609" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-81" value="$$logT_{tn}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="445" y="490" width="50" height="40" as="geometry" />
+          <mxGeometry x="445" y="539" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" source="rplJDwAlL-Y5qZSeV7_r-83" target="rplJDwAlL-Y5qZSeV7_r-84" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-83" value="$$m_c$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="520" y="560" width="40" height="40" as="geometry" />
+          <mxGeometry x="520" y="609" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-84" value="$$FC_{tn}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="515" y="490" width="50" height="40" as="geometry" />
+          <mxGeometry x="515" y="539" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-103" value="Item Uncompromised" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="75" y="120" width="250" height="40" as="geometry" />
@@ -201,17 +203,47 @@
         <mxCell id="Zc_om1HwBll4Ws57w6Fa-1" value="$$\kappa$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;" parent="1" vertex="1">
           <mxGeometry x="295" y="455" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Zc_om1HwBll4Ws57w6Fa-2" value="Change&lt;br&gt;Point" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" parent="1" vertex="1">
-          <mxGeometry x="285" y="500" width="60" height="30" as="geometry" />
+        <mxCell id="Zc_om1HwBll4Ws57w6Fa-2" value="True change point" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="130" y="619" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mwQCCoF-bttuYkdakH4d-2" value="Normal Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="mwQCCoF-bttuYkdakH4d-2" value="Normal Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="375" y="180" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mwQCCoF-bttuYkdakH4d-3" value="Preknowledge Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
-          <mxGeometry x="365" y="462" width="210" height="25" as="geometry" />
+        <mxCell id="mwQCCoF-bttuYkdakH4d-3" value="Preknowledge Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" parent="1" vertex="1">
+          <mxGeometry x="365" y="511" width="210" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="mwQCCoF-bttuYkdakH4d-4" value="Normal Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="mwQCCoF-bttuYkdakH4d-4" value="Normal Responses" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=2;fontColor=#4D4D4D;" parent="1" vertex="1">
           <mxGeometry x="95" y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-17" value="$$\kappa$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;" vertex="1" parent="1">
+          <mxGeometry x="85" y="609" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-18" value="Candidate change point \(1,\dots,L\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+          <mxGeometry x="130" y="572" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-19" value="$$1$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="125" y="460" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-20" value="$$2$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="460" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-21" value="$$\kappa +1$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="365" y="460" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-25" value="$$L-1$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="490" y="460" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-26" value="$$L$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="555" y="460" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="85" y="567" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-30" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="237.5" y="465" width="45" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-31" value="..." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontStyle=0;fillColor=none;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="465" width="45" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -342,10 +374,22 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gpKpTMMCwcutkawp68Jb" name="Marginalized Likelihood">
-    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1793" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ctDExeu3ULgzUk05hakN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="850" width="505" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ctDExeu3ULgzUk05hakN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-27.5" y="850" width="505" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="ctDExeu3ULgzUk05hakN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeWidth=2;dashed=1;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="480" y="555" width="505" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="ctDExeu3ULgzUk05hakN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="555" width="505" height="295" as="geometry" />
+        </mxCell>
         <mxCell id="2tOmSpjIE1QtGu3C-pAH-1" value="$$P(\mathbf D\mid \kappa=k)= \begin{cases} \displaystyle \prod_{t=1}^{L} f_{0,t}(D_t), &amp;amp; \text{if } k \ge L,\\[6pt] \displaystyle \underbrace{\prod_{t=1}^{k} f_{0,t}(D_t)}_{\text{pre-change model}}\;\; \underbrace{\prod_{t=k+1}^{L} f_{1,t}(D_t)}_{\text{post-change model}}, &amp;amp; \text{if } k &amp;lt; L. \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="30" y="665" width="390" height="150" as="geometry" />
         </mxCell>
@@ -362,13 +406,13 @@
           <mxGeometry x="519" y="670" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mJosBzVGoVNyC8O88aa-1" value="&lt;font&gt;Phase I (offline, fixed window):&lt;br&gt;Estimate the posterior distribution via Bayes rule.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="10" y="850" width="300" height="30" as="geometry" />
+          <mxGeometry x="10" y="885" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-mJosBzVGoVNyC8O88aa-2" value="$$P(\kappa=k| \mathbf D, \vec {\pi}) =\frac{\pi_k P(\mathbf D| \kappa=k) }{ \sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="25" y="910" width="270" height="40" as="geometry" />
+          <mxGeometry x="12" y="961" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-mJosBzVGoVNyC8O88aa-3" value="&lt;font&gt;Phase I (online, streaming):&lt;br&gt;&lt;/font&gt;Sequential Hypothesis Testing using the Shiryaev procedure." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="524" y="836" width="300" height="60" as="geometry" />
+        <mxCell id="-mJosBzVGoVNyC8O88aa-3" value="&lt;font&gt;Phase II (online, streaming):&lt;br&gt;&lt;/font&gt;Sequential Hypothesis Testing using the Shiryaev procedure." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="524" y="885" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -378,35 +422,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="370" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;dashed=1;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="380" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="90" width="320" height="370" as="geometry" />
+        </mxCell>
         <mxCell id="5Yq3LtqRce5QeuQrIJi9-1" value="$$H_0: \kappa \ge T,&amp;nbsp; H_1: \kappa&amp;lt;T$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="140" width="190" height="30" as="geometry" />
+          <mxGeometry x="40" y="140" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Yq3LtqRce5QeuQrIJi9-3" value="For each time point \(T\):" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="98.5" width="220" height="30" as="geometry" />
+          <mxGeometry x="40" y="98.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5Yq3LtqRce5QeuQrIJi9-4" value="Assuming change point \(\kappa \sim Geometric(p), \quad k=1,2,\ldots\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="270" width="200" height="50" as="geometry" />
+          <mxGeometry x="40" y="270" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VlpbCDXsKI4AnBVCqGL7-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Construct the&amp;nbsp; statistics using posterior odds&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;\(\Lambda_T=P(\kappa &amp;lt; T \mid \mathbf D) / P(\kappa \ge T \mid \mathbf D) \)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="201.5" width="250" height="30" as="geometry" />
+          <mxGeometry x="40" y="201.5" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VlpbCDXsKI4AnBVCqGL7-4" value="\(\pi_k=P(\kappa=k)=p(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\( P(\kappa &amp;lt; k) = 1-(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\(P(\kappa\ge k)=1-P(\kappa &amp;lt; k)=(1-p)^{k-1}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="320" width="300" height="100" as="geometry" />
+          <mxGeometry x="40" y="320" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="VlpbCDXsKI4AnBVCqGL7-5" value="$$\begin{aligned} P(\kappa\ge T\mid \mathbf D) &amp;amp;\propto P(\kappa\ge T)\,P(\mathbf D\mid \kappa\ge T)\\ &amp;amp;=(1-p)^{T-1}\,\prod_{t=1}^{T} f_{0,t}. \end{aligned}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="498.5" width="260" height="73" as="geometry" />
+          <mxGeometry x="360" y="150" width="360" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="n7bArg3CuarotsO7Ygpx-2" value="$$\begin{align} P(\kappa &amp;lt; T \mid \mathbf D) &amp;amp;\propto P(\kappa &amp;lt; T)\, P(\mathbf D \mid \kappa &amp;lt; T) \\ &amp;amp;= \sum_{k^*=1}^{T-1} \pi_{k^*} \left(\prod_{t=1}^{k^*} f_{0,t}\right) \left(\prod_{t=k^*+1}^{T} f_{1,t}\right)\, . \end{align}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="590" width="340" height="90" as="geometry" />
+        <mxCell id="n7bArg3CuarotsO7Ygpx-2" value="$$\begin{align} P(\kappa &amp;lt; T \mid \mathbf D) &amp;amp;\propto P(\kappa &amp;lt; T)\, P(\mathbf D \mid \kappa &amp;lt; T) \\ &amp;amp;= \sum_{k^*=1}^{T-1} \pi_{k^*} \left(\prod_{t=1}^{k^*} f_{0,t}\right) \left(\prod_{t=k^*+1}^{T} f_{1,t}\right)\,&amp;nbsp; \end{align}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="238.5" width="340" height="90" as="geometry" />
         </mxCell>
         <mxCell id="n7bArg3CuarotsO7Ygpx-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\begin{aligned} \Lambda_T &amp;amp;=\frac{P(\kappa &amp;lt; T \mid \mathbf D)}{P(\kappa \ge T \mid \mathbf D)}\\ &amp;amp;=\frac{\displaystyle\sum_{k^{\ast}=1}^{T-1} \pi_{k^{\ast}} \left(\prod_{t=1}^{k^{\ast}} f_{0,t}\right) \left(\prod_{t=k^{\ast}+1}^{T} f_{1,t}\right)} {\displaystyle (1-p)^{T-1}\prod_{t=1}^{T} f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} \frac{\pi_{k^{\ast}}}{(1-p)^{T-1}} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} p(1-p)^{k^{\ast}-T} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}} \, . \end{aligned}$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="440" y="190" width="370" height="260" as="geometry" />
+          <mxGeometry x="760" y="185" width="320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="y_v-7-jXhv1W_7I-1G1c-3" value="By Bayes rule:&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="60" y="450" width="90" height="30" as="geometry" />
+          <mxGeometry x="360" y="98.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y_v-7-jXhv1W_7I-1G1c-4" value="&lt;div style=&quot;&quot;&gt;The statistics of time T can be written as:&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
-          <mxGeometry x="460" y="110" width="260" height="40" as="geometry" />
+        <mxCell id="y_v-7-jXhv1W_7I-1G1c-4" value="&lt;div style=&quot;&quot;&gt;The statistics of time \(T\) can be written as:&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="105" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
