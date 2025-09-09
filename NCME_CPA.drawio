@@ -499,7 +499,10 @@
         <mxCell id="L30guuJjFo0Wm9DDIR8X-7" value="&lt;div&gt;Simulate Normal Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="Final Dataset" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="MyzHAQSXA7H7UKAN_CaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L30guuJjFo0Wm9DDIR8X-8" target="MyzHAQSXA7H7UKAN_CaX-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="Replace as preknowledge data according&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="300" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="If the item is compromised, randomly replace the normal response with the preknowledge response according to the proportion of preknowledge responses." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
@@ -540,6 +543,9 @@
         </mxCell>
         <mxCell id="6rldpVuutdtONHubqSN9-13" value="$$\Delta_{tni}=1$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="555" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="MyzHAQSXA7H7UKAN_CaX-2" value="Final Dataset" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="670" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
