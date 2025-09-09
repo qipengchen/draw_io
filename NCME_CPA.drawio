@@ -218,7 +218,7 @@
         <mxCell id="IAB_tmYEr1vZ0wd2QFts-17" value="$$\kappa$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="85" y="609" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="IAB_tmYEr1vZ0wd2QFts-18" value="Candidate change point \(1,\dots,L\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
+        <mxCell id="IAB_tmYEr1vZ0wd2QFts-18" value="Candidate change points \(1,\dots,L\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#4D4D4D;" vertex="1" parent="1">
           <mxGeometry x="130" y="572" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IAB_tmYEr1vZ0wd2QFts-19" value="$$1$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;strokeColor=default;fillStyle=auto;gradientColor=light-dark(#bac8d3, #ededed);gradientDirection=west;dashed=1;fontSize=10;" vertex="1" parent="1">
