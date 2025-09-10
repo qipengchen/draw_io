@@ -549,7 +549,7 @@
         <mxCell id="QR0ZfJiHLlBj4M6CiiZd-2" value="&lt;div style=&quot;&quot;&gt;Posterior probability of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="380" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-1" value="Statistics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="3d9Web2cMjuSh4imlI4W-1" value="Statistics&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="120" y="395" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3d9Web2cMjuSh4imlI4W-2" value="Inference method" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -564,8 +564,8 @@
         <mxCell id="3d9Web2cMjuSh4imlI4W-9" value="&lt;div style=&quot;&quot;&gt;Posterior probability odds of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="580" y="380" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-1" value="known / fixed" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="104" y="225" width="120" height="30" as="geometry" />
+        <mxCell id="8z22STRjNTB8eEcmMIQI-1" value="known / fixed&lt;br&gt;parameters" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="119" y="220" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8z22STRjNTB8eEcmMIQI-2" value="&lt;div style=&quot;&quot;&gt;Item parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="240" height="60" as="geometry" />
