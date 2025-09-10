@@ -502,10 +502,10 @@
         <mxCell id="MyzHAQSXA7H7UKAN_CaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" source="L30guuJjFo0Wm9DDIR8X-8" target="MyzHAQSXA7H7UKAN_CaX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="&lt;span&gt;\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)&lt;/span&gt;&lt;br&gt;Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="300" y="530" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="&lt;span style=&quot;text-align: center;&quot;&gt;\(I(\kappa_i &amp;lt; t)\) represent whether the item is compromised.&lt;br&gt;&amp;nbsp;\(\psi\) represent the&amp;nbsp;&lt;/span&gt;&lt;span&gt;prevalence of preknowledge response.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="&lt;span style=&quot;text-align: center;&quot;&gt;\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;\(I(\kappa_i &amp;lt; t)\) represent whether the item is compromised.&lt;br&gt;&amp;nbsp;\(\psi\) represent the&amp;nbsp;&lt;/span&gt;&lt;span&gt;prevalence of preknowledge response.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="20" y="500" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MyzHAQSXA7H7UKAN_CaX-2" value="Dataset&lt;br&gt;(final)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
