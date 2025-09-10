@@ -384,11 +384,8 @@
         <mxCell id="ctDExeu3ULgzUk05hakN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-27.5" y="850" width="505" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ctDExeu3ULgzUk05hakN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="480" y="555" width="505" height="295" as="geometry" />
-        </mxCell>
         <mxCell id="ctDExeu3ULgzUk05hakN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="555" width="505" height="295" as="geometry" />
+          <mxGeometry x="-25" y="555" width="1005" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2tOmSpjIE1QtGu3C-pAH-1" value="$$P(\mathbf D\mid \kappa=k)= \begin{cases} \displaystyle \prod_{t=1}^{L} f_{0,t}(D_t), &amp;amp; \text{if } k \ge L,\\[6pt] \displaystyle \underbrace{\prod_{t=1}^{k} f_{0,t}(D_t)}_{\text{pre-change model}}\;\; \underbrace{\prod_{t=k+1}^{L} f_{1,t}(D_t)}_{\text{post-change model}}, &amp;amp; \text{if } k &amp;lt; L. \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="30" y="665" width="390" height="150" as="geometry" />
