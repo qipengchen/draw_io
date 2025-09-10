@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0" pages="7">
   <diagram name="Model flowchart" id="gy4s0TE1F60DZMJvIQby">
     <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -481,13 +481,13 @@
         <mxCell id="x7L3-oJdsVp8jJNEevsP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="L30guuJjFo0Wm9DDIR8X-2" target="L30guuJjFo0Wm9DDIR8X-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-2" value="Set A&lt;div&gt;(5 forms, &lt;br&gt;20 items per form)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-2" value="Section A&lt;div&gt;(5 forms, &lt;br&gt;20 items per form)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="170" y="275" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="x7L3-oJdsVp8jJNEevsP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="L30guuJjFo0Wm9DDIR8X-4" target="L30guuJjFo0Wm9DDIR8X-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-4" value="Set B&lt;br&gt;(5 forms,&lt;br&gt;20 items per form)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-4" value="Section B&lt;br&gt;(5 forms,&lt;br&gt;20 items per form)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="410" y="275" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L30guuJjFo0Wm9DDIR8X-6" value="For each test section, random select 1 test form." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
@@ -496,77 +496,38 @@
         <mxCell id="L30guuJjFo0Wm9DDIR8X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;entryX=0.143;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L30guuJjFo0Wm9DDIR8X-7" target="L30guuJjFo0Wm9DDIR8X-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-7" value="&lt;div&gt;Dataset&lt;br&gt;(Normal)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-7" value="&lt;div&gt;Dataset&lt;br&gt;(normal)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="300" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MyzHAQSXA7H7UKAN_CaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="L30guuJjFo0Wm9DDIR8X-8" target="MyzHAQSXA7H7UKAN_CaX-2" edge="1">
+        <mxCell id="MyzHAQSXA7H7UKAN_CaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;" parent="1" source="L30guuJjFo0Wm9DDIR8X-8" target="MyzHAQSXA7H7UKAN_CaX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)&lt;/span&gt;&lt;br&gt;Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="&lt;span&gt;\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)&lt;/span&gt;&lt;br&gt;Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="300" y="530" width="420" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="&lt;span style=&quot;font-size: 12px; text-align: center;&quot;&gt;\(I(\kappa_i &amp;lt; t)\) represent whether the item is compromised&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="20" y="460" width="210" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6rldpVuutdtONHubqSN9-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="940" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="6rldpVuutdtONHubqSN9-1" target="6rldpVuutdtONHubqSN9-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-1" value="$$\kappa_i \ge t$$" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="980" y="640" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6rldpVuutdtONHubqSN9-4" target="6rldpVuutdtONHubqSN9-12" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1000" y="810" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="6rldpVuutdtONHubqSN9-4" target="6rldpVuutdtONHubqSN9-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1150" y="810" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="1155" y="750" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-4" value="$$\Delta_{tni}^*$$" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1050" y="720" width="60" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-11" value="$$\Delta_{tni}=0$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="900" y="720" width="70" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-12" value="$$\Delta_{tni}=0$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="970" y="815" width="70" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="6rldpVuutdtONHubqSN9-13" value="$$\Delta_{tni}=1$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="815" width="90" height="45" as="geometry" />
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="&lt;span style=&quot;text-align: center;&quot;&gt;\(I(\kappa_i &amp;lt; t)\) represent whether the item is compromised.&lt;br&gt;&amp;nbsp;\(\psi\) represent the&amp;nbsp;&lt;/span&gt;&lt;span&gt;prevalence of preknowledge response.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="20" y="480" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="MyzHAQSXA7H7UKAN_CaX-2" value="Dataset&lt;br&gt;(final)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="i8ZDFK4JwP4Fvu4ktJkj-1" value="\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="640" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="nwwVwbYO5ae0gXphsNcS-1" value="&lt;div&gt;Dataset&lt;br&gt;(Preknowledge)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="nwwVwbYO5ae0gXphsNcS-1" value="&lt;div&gt;Dataset&lt;br&gt;(preknowledge)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="587.5" y="405" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nwwVwbYO5ae0gXphsNcS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nwwVwbYO5ae0gXphsNcS-2" target="nwwVwbYO5ae0gXphsNcS-1">
+        <mxCell id="nwwVwbYO5ae0gXphsNcS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="nwwVwbYO5ae0gXphsNcS-2" target="nwwVwbYO5ae0gXphsNcS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nwwVwbYO5ae0gXphsNcS-2" value="preknowledge data share same mdoel parameters across time, person and item" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="nwwVwbYO5ae0gXphsNcS-2" value="Preknowledge model" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="565" y="230" width="165" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="nwwVwbYO5ae0gXphsNcS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nwwVwbYO5ae0gXphsNcS-1" target="L30guuJjFo0Wm9DDIR8X-8">
+        <mxCell id="nwwVwbYO5ae0gXphsNcS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.829;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;" edge="1" parent="1" source="nwwVwbYO5ae0gXphsNcS-1" target="L30guuJjFo0Wm9DDIR8X-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="FvE5QbeiYGsyfC94Npme" name="Page-5">
-    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="920" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -579,38 +540,58 @@
         <mxCell id="YgTl7DeCOaPQsj77N5F6-3" value="Operational Data" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="1000" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eMJN93md6YRkyGRRiCLc-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;Phase I (offline, fixed window)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="eMJN93md6YRkyGRRiCLc-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;Phase I (offline, fixed window)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="280" y="120" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eMJN93md6YRkyGRRiCLc-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NUTS&amp;nbsp;&lt;/span&gt;&lt;span&gt;backend&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;with GPU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="QR0ZfJiHLlBj4M6CiiZd-2" value="&lt;div style=&quot;&quot;&gt;Posterior probability of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="240" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-1" value="Statistics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="255" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-2" value="Estimation Methods" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="375" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-3" value="known parameters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="110" y="470" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-4" value="&lt;div style=&quot;&quot;&gt;Item parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
+        <mxCell id="eMJN93md6YRkyGRRiCLc-2" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;NUTS&amp;nbsp;&lt;/span&gt;&lt;span&gt;backend&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;with GPU&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="280" y="470" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;Phase II (online, streaming)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="610" y="120" width="240" height="60" as="geometry" />
+        <mxCell id="QR0ZfJiHLlBj4M6CiiZd-2" value="&lt;div style=&quot;&quot;&gt;Posterior probability of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="280" y="380" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-8" value="&lt;div style=&quot;&quot;&gt;QMC approximate to estimate the&amp;nbsp; person parameters.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="360" width="240" height="60" as="geometry" />
+        <mxCell id="3d9Web2cMjuSh4imlI4W-1" value="Statistics" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="395" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-9" value="&lt;div style=&quot;&quot;&gt;Posterior probability odd of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="240" width="240" height="60" as="geometry" />
+        <mxCell id="3d9Web2cMjuSh4imlI4W-2" value="Estimation Methods" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="170" y="485" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3d9Web2cMjuSh4imlI4W-10" value="&lt;div style=&quot;&quot;&gt;Item parameters&lt;br&gt;higher-oder covariance matrix&lt;br&gt;Preknowledge model parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;" vertex="1" parent="1">
-          <mxGeometry x="610" y="470" width="240" height="60" as="geometry" />
+        <mxCell id="3d9Web2cMjuSh4imlI4W-7" value="&lt;span style=&quot;text-align: left;&quot;&gt;Phase II (online, streaming)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="580" y="120" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3d9Web2cMjuSh4imlI4W-8" value="&lt;div style=&quot;&quot;&gt;QMC approximate to estimate the&amp;nbsp; person parameters.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="580" y="470" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3d9Web2cMjuSh4imlI4W-9" value="&lt;div style=&quot;&quot;&gt;Posterior probability odd of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="580" y="380" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-1" value="Known parameters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-2" value="&lt;div style=&quot;&quot;&gt;Item parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-3" value="&lt;div style=&quot;&quot;&gt;Item parameters&lt;br&gt;higher-oder covariance matrix&lt;br&gt;Preknowledge model parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="210" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-4" value="Estimation parameters" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-5" value="&lt;div style=&quot;&quot;&gt;higher-oder covariance matrix&lt;br&gt;Preknowledge model parameters&lt;br&gt;Person parameters&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="280" y="295" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8z22STRjNTB8eEcmMIQI-6" value="&lt;div style=&quot;&quot;&gt;Person parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;align=center;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="580" y="295" width="240" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="uez308ZZS-qwhasQX7No" name="Page-7">
+    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3YAHJ-cD_PAEv_HJW4sh-1" value="&lt;span style=&quot;text-align: left;&quot;&gt;Phase I (offline, fixed window)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="120" width="240" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
