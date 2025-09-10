@@ -502,13 +502,13 @@
         <mxCell id="MyzHAQSXA7H7UKAN_CaX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" source="L30guuJjFo0Wm9DDIR8X-8" target="MyzHAQSXA7H7UKAN_CaX-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="L30guuJjFo0Wm9DDIR8X-8" value="Select data according \(\Delta_{tni}\)" style="whiteSpace=wrap;html=1;rounded=1;fontSize=15;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="300" y="530" width="420" height="60" as="geometry" />
         </mxCell>
         <mxCell id="L30guuJjFo0Wm9DDIR8X-11" value="&lt;span style=&quot;text-align: center;&quot;&gt;\(P(\Delta_{tni})= I(\kappa_i &amp;lt; t) \times \psi \)&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;\(I(\kappa_i &amp;lt; t)\) represent whether the item is compromised.&lt;br&gt;&amp;nbsp;\(\psi\) represent the&amp;nbsp;&lt;/span&gt;&lt;span&gt;prevalence of preknowledge response.&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="20" y="500" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="MyzHAQSXA7H7UKAN_CaX-2" value="Dataset&lt;br&gt;(final)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="MyzHAQSXA7H7UKAN_CaX-2" value="Dataset&lt;br&gt;(final)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="450" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nwwVwbYO5ae0gXphsNcS-1" value="&lt;div&gt;Dataset&lt;br&gt;(preknowledge)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
