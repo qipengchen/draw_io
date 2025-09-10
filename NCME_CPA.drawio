@@ -378,40 +378,40 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ctDExeu3ULgzUk05hakN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="ctDExeu3ULgzUk05hakN-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="476.5" y="850" width="505" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ctDExeu3ULgzUk05hakN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="ctDExeu3ULgzUk05hakN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-27.5" y="850" width="505" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="ctDExeu3ULgzUk05hakN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeWidth=2;dashed=1;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="ctDExeu3ULgzUk05hakN-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="480" y="555" width="505" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="ctDExeu3ULgzUk05hakN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="ctDExeu3ULgzUk05hakN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-25" y="555" width="505" height="295" as="geometry" />
         </mxCell>
-        <mxCell id="2tOmSpjIE1QtGu3C-pAH-1" value="$$P(\mathbf D\mid \kappa=k)= \begin{cases} \displaystyle \prod_{t=1}^{L} f_{0,t}(D_t), &amp;amp; \text{if } k \ge L,\\[6pt] \displaystyle \underbrace{\prod_{t=1}^{k} f_{0,t}(D_t)}_{\text{pre-change model}}\;\; \underbrace{\prod_{t=k+1}^{L} f_{1,t}(D_t)}_{\text{post-change model}}, &amp;amp; \text{if } k &amp;lt; L. \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2tOmSpjIE1QtGu3C-pAH-1" value="$$P(\mathbf D\mid \kappa=k)= \begin{cases} \displaystyle \prod_{t=1}^{L} f_{0,t}(D_t), &amp;amp; \text{if } k \ge L,\\[6pt] \displaystyle \underbrace{\prod_{t=1}^{k} f_{0,t}(D_t)}_{\text{pre-change model}}\;\; \underbrace{\prod_{t=k+1}^{L} f_{1,t}(D_t)}_{\text{post-change model}}, &amp;amp; \text{if } k &amp;lt; L. \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="30" y="665" width="390" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="2tOmSpjIE1QtGu3C-pAH-2" value="Data at time point t: \(D_t=\{Y_t,\ \log T_t,\ \mathrm{FC}_t\}\)&lt;br&gt;Pre-change model: \(f_0\)&lt;div&gt;Post-change model: \(f_1\)&lt;br&gt;Likelihood gives the change point k:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2tOmSpjIE1QtGu3C-pAH-2" value="Data at time point t: \(D_t=\{Y_t,\ \log T_t,\ \mathrm{FC}_t\}\)&lt;br&gt;Pre-change model: \(f_0\)&lt;div&gt;Post-change model: \(f_1\)&lt;br&gt;Likelihood gives the change point k:&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="10" y="570" width="430" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="2tOmSpjIE1QtGu3C-pAH-3" value="A prior is placed on the change point \(\kappa\) with \(P(\kappa=t)=\pi_t\), where \( \vec{\pi}=(\pi_1,\ldots,\pi_L)\).&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2tOmSpjIE1QtGu3C-pAH-3" value="A prior is placed on the change point \(\kappa\) with \(P(\kappa=t)=\pi_t\), where \( \vec{\pi}=(\pi_1,\ldots,\pi_L)\).&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="519" y="585" width="420" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2tOmSpjIE1QtGu3C-pAH-5" value="\begin{equation}&#xa;P(\mathbf D| \vec {\pi})&#xa;=\sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t) &#xa;\end{equation}" style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2tOmSpjIE1QtGu3C-pAH-5" value="\begin{equation}&#xa;P(\mathbf D| \vec {\pi})&#xa;=\sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t) &#xa;\end{equation}" style="text;whiteSpace=wrap;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="524" y="700" width="355" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2tOmSpjIE1QtGu3C-pAH-6" value="Marginalizing over all candidate change points yields a finite-mixture marginal likelihood:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2tOmSpjIE1QtGu3C-pAH-6" value="Marginalizing over all candidate change points yields a finite-mixture marginal likelihood:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="519" y="670" width="330" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-mJosBzVGoVNyC8O88aa-1" value="&lt;font&gt;Phase I (offline, fixed window):&lt;br&gt;Estimate the posterior distribution via Bayes rule.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="-mJosBzVGoVNyC8O88aa-1" value="&lt;font&gt;Phase I (offline, fixed window):&lt;br&gt;Estimate the posterior distribution via Bayes rule.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="10" y="885" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-mJosBzVGoVNyC8O88aa-2" value="$$P(\kappa=k| \mathbf D, \vec {\pi}) =\frac{\pi_k P(\mathbf D| \kappa=k) }{ \sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="-mJosBzVGoVNyC8O88aa-2" value="$$P(\kappa=k| \mathbf D, \vec {\pi}) =\frac{\pi_k P(\mathbf D| \kappa=k) }{ \sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="12" y="961" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="-mJosBzVGoVNyC8O88aa-3" value="&lt;font&gt;Phase II (online, streaming):&lt;br&gt;&lt;/font&gt;Sequential Hypothesis Testing using the Shiryaev procedure." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="-mJosBzVGoVNyC8O88aa-3" value="&lt;font&gt;Phase II (online, streaming):&lt;br&gt;&lt;/font&gt;Sequential Hypothesis Testing using the Shiryaev procedure." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="524" y="885" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
