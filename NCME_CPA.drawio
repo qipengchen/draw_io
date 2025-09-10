@@ -422,43 +422,43 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3IBZlQbXbBa83W-7M_9v-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeWidth=2;dashed=1;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="730" y="90" width="370" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="3IBZlQbXbBa83W-7M_9v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;dashed=1;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeWidth=2;dashed=1;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="350" y="90" width="380" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="3IBZlQbXbBa83W-7M_9v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="3IBZlQbXbBa83W-7M_9v-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="30" y="90" width="320" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="5Yq3LtqRce5QeuQrIJi9-1" value="$$H_0: \kappa \ge T,&amp;nbsp; H_1: \kappa&amp;lt;T$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5Yq3LtqRce5QeuQrIJi9-1" value="$$H_0: \kappa \ge T,&amp;nbsp; H_1: \kappa&amp;lt;T$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Yq3LtqRce5QeuQrIJi9-3" value="For each time point \(T\):" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5Yq3LtqRce5QeuQrIJi9-3" value="For each time point \(T\):" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="98.5" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Yq3LtqRce5QeuQrIJi9-4" value="Assuming change point \(\kappa \sim Geometric(p), \quad k=1,2,\ldots\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="5Yq3LtqRce5QeuQrIJi9-4" value="Prior of&amp;nbsp; change point \(\kappa \sim Geometric(p), \quad k=1,2,\ldots\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="270" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VlpbCDXsKI4AnBVCqGL7-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Construct the&amp;nbsp; statistics using posterior odds&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;\(\Lambda_T=P(\kappa &amp;lt; T \mid \mathbf D) / P(\kappa \ge T \mid \mathbf D) \)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="VlpbCDXsKI4AnBVCqGL7-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;Construct the&amp;nbsp; statistics using posterior odds&amp;nbsp;&lt;/span&gt;&lt;div style=&quot;text-wrap-mode: nowrap;&quot;&gt;\(\Lambda_T=P(\kappa &amp;lt; T \mid \mathbf D) / P(\kappa \ge T \mid \mathbf D) \)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="201.5" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VlpbCDXsKI4AnBVCqGL7-4" value="\(\pi_k=P(\kappa=k)=p(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\( P(\kappa &amp;lt; k) = 1-(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\(P(\kappa\ge k)=1-P(\kappa &amp;lt; k)=(1-p)^{k-1}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="VlpbCDXsKI4AnBVCqGL7-4" value="\(\pi_k=P(\kappa=k)=p(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\( P(\kappa &amp;lt; k) = 1-(1-p)^{k-1}\)&lt;br&gt;&lt;br&gt;\(P(\kappa\ge k)=1-P(\kappa &amp;lt; k)=(1-p)^{k-1}\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="300" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="VlpbCDXsKI4AnBVCqGL7-5" value="$$\begin{aligned} P(\kappa\ge T\mid \mathbf D) &amp;amp;\propto P(\kappa\ge T)\,P(\mathbf D\mid \kappa\ge T)\\ &amp;amp;=(1-p)^{T-1}\,\prod_{t=1}^{T} f_{0,t}. \end{aligned}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="VlpbCDXsKI4AnBVCqGL7-5" value="$$\begin{aligned} P(\kappa\ge T\mid \mathbf D) &amp;amp;\propto P(\kappa\ge T)\,P(\mathbf D\mid \kappa\ge T)\\ &amp;amp;=(1-p)^{T-1}\,\prod_{t=1}^{T} f_{0,t}. \end{aligned}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="360" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="n7bArg3CuarotsO7Ygpx-2" value="$$\begin{align} P(\kappa &amp;lt; T \mid \mathbf D) &amp;amp;\propto P(\kappa &amp;lt; T)\, P(\mathbf D \mid \kappa &amp;lt; T) \\ &amp;amp;= \sum_{k^*=1}^{T-1} \pi_{k^*} \left(\prod_{t=1}^{k^*} f_{0,t}\right) \left(\prod_{t=k^*+1}^{T} f_{1,t}\right)\,&amp;nbsp; \end{align}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="n7bArg3CuarotsO7Ygpx-2" value="$$\begin{align} P(\kappa &amp;lt; T \mid \mathbf D) &amp;amp;\propto P(\kappa &amp;lt; T)\, P(\mathbf D \mid \kappa &amp;lt; T) \\ &amp;amp;= \sum_{k^*=1}^{T-1} \pi_{k^*} \left(\prod_{t=1}^{k^*} f_{0,t}\right) \left(\prod_{t=k^*+1}^{T} f_{1,t}\right)\,&amp;nbsp; \end{align}$$" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="238.5" width="340" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="n7bArg3CuarotsO7Ygpx-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\begin{aligned} \Lambda_T &amp;amp;=\frac{P(\kappa &amp;lt; T \mid \mathbf D)}{P(\kappa \ge T \mid \mathbf D)}\\ &amp;amp;=\frac{\displaystyle\sum_{k^{\ast}=1}^{T-1} \pi_{k^{\ast}} \left(\prod_{t=1}^{k^{\ast}} f_{0,t}\right) \left(\prod_{t=k^{\ast}+1}^{T} f_{1,t}\right)} {\displaystyle (1-p)^{T-1}\prod_{t=1}^{T} f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} \frac{\pi_{k^{\ast}}}{(1-p)^{T-1}} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} p(1-p)^{k^{\ast}-T} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}} \, . \end{aligned}$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="n7bArg3CuarotsO7Ygpx-3" value="&lt;span style=&quot;text-wrap-mode: nowrap;&quot;&gt;$$\begin{aligned} \Lambda_T &amp;amp;=\frac{P(\kappa &amp;lt; T \mid \mathbf D)}{P(\kappa \ge T \mid \mathbf D)}\\ &amp;amp;=\frac{\displaystyle\sum_{k^{\ast}=1}^{T-1} \pi_{k^{\ast}} \left(\prod_{t=1}^{k^{\ast}} f_{0,t}\right) \left(\prod_{t=k^{\ast}+1}^{T} f_{1,t}\right)} {\displaystyle (1-p)^{T-1}\prod_{t=1}^{T} f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} \frac{\pi_{k^{\ast}}}{(1-p)^{T-1}} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}}\\ &amp;amp;=\sum_{k^{\ast}=1}^{T-1} p(1-p)^{k^{\ast}-T} \prod_{t=k^{\ast}+1}^{T} \frac{f_{1,t}}{f_{0,t}} \, . \end{aligned}$$&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="760" y="185" width="320" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="y_v-7-jXhv1W_7I-1G1c-3" value="By Bayes rule:&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="y_v-7-jXhv1W_7I-1G1c-3" value="By Bayes rule:&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="98.5" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="y_v-7-jXhv1W_7I-1G1c-4" value="&lt;div style=&quot;&quot;&gt;The statistics of time \(T\) can be written as:&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;align=left;" vertex="1" parent="1">
+        <mxCell id="y_v-7-jXhv1W_7I-1G1c-4" value="&lt;div style=&quot;&quot;&gt;The statistics of time \(T\) can be written as:&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=15;align=left;" parent="1" vertex="1">
           <mxGeometry x="760" y="105" width="260" height="40" as="geometry" />
         </mxCell>
       </root>
