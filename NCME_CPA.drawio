@@ -382,10 +382,10 @@
           <mxGeometry x="476.5" y="850" width="505" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ctDExeu3ULgzUk05hakN-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeWidth=2;dashed=1;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-27.5" y="850" width="505" height="200" as="geometry" />
+          <mxGeometry x="-20" y="850" width="497.5" height="200" as="geometry" />
         </mxCell>
         <mxCell id="ctDExeu3ULgzUk05hakN-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeWidth=2;dashed=1;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="555" width="1005" height="295" as="geometry" />
+          <mxGeometry x="-20" y="555" width="1000" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2tOmSpjIE1QtGu3C-pAH-1" value="$$P(\mathbf D\mid \kappa=k)= \begin{cases} \displaystyle \prod_{t=1}^{L} f_{0,t}(D_t), &amp;amp; \text{if } k \ge L,\\[6pt] \displaystyle \underbrace{\prod_{t=1}^{k} f_{0,t}(D_t)}_{\text{pre-change model}}\;\; \underbrace{\prod_{t=k+1}^{L} f_{1,t}(D_t)}_{\text{post-change model}}, &amp;amp; \text{if } k &amp;lt; L. \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="30" y="665" width="390" height="150" as="geometry" />
@@ -405,7 +405,7 @@
         <mxCell id="-mJosBzVGoVNyC8O88aa-1" value="&lt;font&gt;Phase I (offline, fixed window):&lt;br&gt;Estimate the posterior distribution via Bayes rule.&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="10" y="885" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-mJosBzVGoVNyC8O88aa-2" value="$$P(\kappa=k| \mathbf D, \vec {\pi}) =\frac{\pi_k P(\mathbf D| \kappa=k) }{ \sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="-mJosBzVGoVNyC8O88aa-2" value="$$P(\kappa=k| \mathbf D) =\frac{\pi_k P(\mathbf D| \kappa=k) }{ \sum_{t=1}^L \pi_t P(\mathbf D| \kappa=t)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="12" y="961" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-mJosBzVGoVNyC8O88aa-3" value="&lt;font&gt;Phase II (online, streaming):&lt;br&gt;&lt;/font&gt;Sequential Hypothesis Testing using the Shiryaev procedure." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
@@ -415,7 +415,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0RWUCLr4mG-lWhOPjK4w" name="Shiryaev Process">
-    <mxGraphModel dx="1380" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -524,7 +524,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FvE5QbeiYGsyfC94Npme" name="Page-5">
-    <mxGraphModel dx="920" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="966" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -547,27 +547,27 @@
           <mxGeometry x="560" y="120" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3d9Web2cMjuSh4imlI4W-8" value="&lt;div&gt;QMC approximate to estimate the&amp;nbsp; person parameters.&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="580" y="470" width="240" height="60" as="geometry" />
+          <mxGeometry x="563" y="470" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3d9Web2cMjuSh4imlI4W-9" value="&lt;div&gt;Posterior probability odds of &lt;br&gt;change-points&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="380" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-1" value="known / fixed&lt;br&gt;parameters" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-1" value="known / fixed&lt;br&gt;parameters" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="119" y="220" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-2" value="&lt;div&gt;Item parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-2" value="&lt;div&gt;Item parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="210" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-3" value="&lt;div&gt;Item parameters&lt;br&gt;higher-oder covariance matrix&lt;br&gt;Preknowledge model parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-3" value="&lt;div&gt;Item parameters&lt;br&gt;higher-oder covariance matrix&lt;br&gt;Preknowledge model parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="210" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-4" value="Parameters to estimate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-4" value="Parameters to estimate" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="119" y="310" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-5" value="&lt;div&gt;higher-order covariance matrix&lt;br&gt;Preknowledge model parameters&lt;br&gt;Person parameters&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-5" value="&lt;div&gt;higher-order covariance matrix&lt;br&gt;Preknowledge model parameters&lt;br&gt;Person parameters&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="280" y="295" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8z22STRjNTB8eEcmMIQI-6" value="&lt;div&gt;Person parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="8z22STRjNTB8eEcmMIQI-6" value="&lt;div&gt;Person parameters&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=17;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="560" y="295" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
