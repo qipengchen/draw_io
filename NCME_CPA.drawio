@@ -249,7 +249,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Xb_QVjPftWUjVfuzGZ-A" name="Model fomula">
-    <mxGraphModel dx="1793" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2027" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -259,14 +259,14 @@
         <mxCell id="KVSVdie-cAVIHfyiZOP4-2" value="" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;textDirection=ltr;spacing=1;fontFamily=Times New Roman;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;strokeColor=light-dark(#0d5b9d, #ededed);" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1">
           <mxGeometry width="220" height="400" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-12" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-12" value="" style="group;fontSize=12;" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
           <mxGeometry x="5" y="40" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVSVdie-cAVIHfyiZOP4-10" value="&lt;b&gt;Response:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-12" vertex="1">
           <mxGeometry x="8" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KVSVdie-cAVIHfyiZOP4-12" value="$$P(Y_{tni})=\frac{\exp( a_i&amp;nbsp;(\theta_{tn}-b_i))}{1+exp( a_i&amp;nbsp;(\theta_{tn}-b_i))}&amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-12" vertex="1">
-          <mxGeometry y="30" width="210" height="30" as="geometry" />
+        <mxCell id="KVSVdie-cAVIHfyiZOP4-12" value="$$P\!\big(Y_{l,ni}=1\big)=\frac{\exp\!\big(a_i(\theta_{l,n}-b_i)\big)}{1+\exp\!\big(a_i(\theta_{l,n}-b_i)\big)}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="A-LZPM26YrLOcIEpCL6b-12" vertex="1">
+          <mxGeometry x="-4" y="30" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-13" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
           <mxGeometry x="5" y="130" width="180" height="60" as="geometry" />
@@ -274,8 +274,8 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-3" value="&lt;b&gt;Response Time:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
           <mxGeometry x="4" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-4" value="$$\log T_{tni} \sim \mathcal{N} (\beta_i - \tau_{tn}, \frac{1}{\omega_i^2}) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
-          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-4" value="$$ \log T_{l,ni} \sim \mathcal{N}\!\left(\beta_i - \tau_{l,n}, \frac{1}{\omega_i^2}\right) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-13" vertex="1">
+          <mxGeometry x="5" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-14" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
           <mxGeometry x="9" y="210" width="191" height="60" as="geometry" />
@@ -283,7 +283,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-5" value="&lt;b&gt;Fxiation Count:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
           <mxGeometry x="-5" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-6" value="$$FC \sim \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-6" value="$$ FC_{l,ni} \sim \mathcal{NegBin}\!\big(\exp(m_i-\epsilon_{l,n}),\, h\big) $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="A-LZPM26YrLOcIEpCL6b-14" vertex="1">
           <mxGeometry x="11" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-15" value="" style="group" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1" connectable="0">
@@ -292,7 +292,7 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-8" value="&lt;b&gt;Higher Order Structure:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-15" vertex="1">
           <mxGeometry width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-9" value="$$(\theta_{tn},\,\tau_{tn},\,\epsilon_{tn})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-15" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-9" value="$$(\theta_{l,n},\,\tau_{l,n},\,\epsilon_{l,n})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="A-LZPM26YrLOcIEpCL6b-15" vertex="1">
           <mxGeometry x="9" y="30" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KVSVdie-cAVIHfyiZOP4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0d5b9d, #ededed);strokeColor=none;" parent="KVSVdie-cAVIHfyiZOP4-1" vertex="1">
@@ -313,23 +313,23 @@
         <mxCell id="A-LZPM26YrLOcIEpCL6b-42" value="&lt;b&gt;Response:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-43" value="$$\begin{cases} \frac{\exp( a_i (\theta_{tn}-b_i))}{1+exp( a_i (\theta_{tn}-b_i))}, &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \gamma, &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="220" width="270" height="30" as="geometry" />
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-43" value="$$ \begin{cases} \displaystyle \frac{\exp\!\big(a_i(\theta_{l,n}-b_i)\big)}{1+\exp\!\big(a_i(\theta_{l,n}-b_i)\big)}, &amp;amp; \Delta_{l,ni}=0 \ \text{(Normal)}, \\[2pt] \gamma, &amp;amp; \Delta_{l,ni}=1 \ \text{(Preknowledge)} \end{cases} $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="307" y="220" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-45" value="&lt;b&gt;Response Time:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="96" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-46" value="$$\begin{cases} \mathcal{N}(\beta_i-\tau_{tn},\ \frac{1}{\omega_i^2}), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)},\\[2pt] \mathcal{N}(\mu_{c},\ \sigma_{c}^2),&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-46" value="$$ \begin{cases} \mathcal{N}\!\left(\beta_i-\tau_{l,n},\, \dfrac{1}{\omega_i^2}\right), &amp;amp; \Delta_{l,ni}=0 \ \text{(Normal)},\\[2pt] \mathcal{N}\!\left(\mu_{c},\, \sigma_{c}^2\right), &amp;amp; \Delta_{l,ni}=1 \ \text{(Preknowledge)} \end{cases} $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="290" y="280" width="315" height="70" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-48" value="&lt;b&gt;Fxiation Count:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="350" width="106" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$\begin{cases} \mathcal{NegBin}(\exp (m_i-\epsilon_{tn}), h_i), &amp;amp; \Delta_{tni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}( \exp (m_c),h_c), &amp;amp; \Delta_{tni}=1 \ \text{(Preknowledge)} \end{cases}$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="325" y="380" width="305" height="50" as="geometry" />
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-49" value="$$ \begin{cases} \mathcal{NegBin}\!\left(\exp(m_i-\epsilon_{l,n}),\, h_i\right), &amp;amp; \Delta_{l,ni}=0 \ \text{(Normal)}, \\[2pt] \mathcal{NegBin}\!\left(\exp(m_c),\, h_c\right), &amp;amp; \Delta_{l,ni}=1 \ \text{(Preknowledge)} \end{cases} $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" parent="1" vertex="1">
+          <mxGeometry x="323" y="380" width="305" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="A-LZPM26YrLOcIEpCL6b-55" value="$$(\theta_{tn},\,\tau_{tn},\,\epsilon_{tn})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="315" y="470" width="180" height="30" as="geometry" />
+        <mxCell id="A-LZPM26YrLOcIEpCL6b-55" value="$$(\theta_{l,n},\,\tau_{l,n},\,\epsilon_{l,n})^{\!\top} \sim \mathcal{N}_3\!\big(\boldsymbol{\mu}_p,\boldsymbol{\Sigma}_p\big)$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="317" y="470" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A-LZPM26YrLOcIEpCL6b-51" value="&lt;b&gt;Higher Order Structure:&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="305" y="440" width="160" height="30" as="geometry" />
@@ -363,12 +363,6 @@
         </mxCell>
         <mxCell id="eVqhcyS-HwuGWP0Trid--6" value="&lt;b&gt;NBFM:&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="357" width="100" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="6Hs1dVoWAMGfsdcOZdU6-1" value="&lt;div&gt;$$f_{1,(t)} = M_{01}(Y_{tni}|\theta_{tn},a_i,b_i) M_{02}(\log T_{tni}| \tau_{tn}, \beta_{i}, \omega_i) M_{03}(FC_{tni} | \epsilon_{tn}, m_{i}, h_i)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="640" width="630" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="6Hs1dVoWAMGfsdcOZdU6-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$f_{1,(t)} = M_{11}(Y_{tni}|\theta_{tn},a_i,b_i, \Delta_{tni}) M_{12}(\log T_{tni}| \tau_{tn}, \beta_{i}, \omega_i, \Delta_{tni}) M_{13}(FC_{tni} | \epsilon_{tn}, m_{i}, h_i, \Delta_{tni})$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="700" width="700" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -826,7 +820,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uez308ZZS-qwhasQX7No" name="Page-7">
-    <mxGraphModel dx="1767" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0" adaptiveColors="auto">
+    <mxGraphModel dx="2867" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -970,6 +964,12 @@
         </mxCell>
         <mxCell id="1Sr_z78ccjXFNBSH3uot-1" value="Pre-change model: \(f_0\)&lt;br&gt;Post-change model: \(f_1\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="160" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u-7iAGatj0YkZ1dzVfFC-1" value="&lt;div&gt;$$f_{1,(t)} = M_{01}(Y_{tni}|\theta_{tn},a_i,b_i) M_{02}(\log T_{tni}| \tau_{tn}, \beta_{i}, \omega_i) M_{03}(FC_{tni} | \epsilon_{tn}, m_{i}, h_i)$$&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="1110" width="630" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u-7iAGatj0YkZ1dzVfFC-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;$$f_{1,(t)} = M_{11}(Y_{tni}|\theta_{tn},a_i,b_i, \Delta_{tni}) M_{12}(\log T_{tni}| \tau_{tn}, \beta_{i}, \omega_i, \Delta_{tni}) M_{13}(FC_{tni} | \epsilon_{tn}, m_{i}, h_i, \Delta_{tni})$$&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1170" width="700" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
