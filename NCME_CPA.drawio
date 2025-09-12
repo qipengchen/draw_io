@@ -968,6 +968,9 @@
         <mxCell id="kJBa9rhFC7QlENU04P-U-58" value="&lt;div&gt;Phase I (offline): EAP estimate of change-point \(\kappa\) &lt;br&gt;&lt;br&gt;Phase II (online): At each time T (e.g., T=3), compute \(\Lambda_T=\frac{P(\kappa&amp;lt;T\mid \mathbf D_{1:T})}{P(\kappa\ge T\mid \mathbf D_{1:T})}\) and compare to a threshold.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="512.5" y="360" width="317.5" height="180" as="geometry" />
         </mxCell>
+        <mxCell id="1Sr_z78ccjXFNBSH3uot-1" value="Pre-change model: \(f_0\)&lt;br&gt;Post-change model: \(f_1\)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
