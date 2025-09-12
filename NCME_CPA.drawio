@@ -962,7 +962,7 @@
         <mxCell id="kJBa9rhFC7QlENU04P-U-54" value="\(k \ge L\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="480" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kJBa9rhFC7QlENU04P-U-57" value="Total days = L" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="kJBa9rhFC7QlENU04P-U-57" value="L = 3 represents the total number of days" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="137.5" y="540" width="292.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="kJBa9rhFC7QlENU04P-U-58" value="&lt;div&gt;Phase I (offline): EAP estimate of change-point \(\kappa\) &lt;br&gt;&lt;br&gt;Phase II (online): At each time T (e.g., T=3), compute \(\Lambda_T=\frac{P(\kappa&amp;lt;T\mid \mathbf D_{1:T})}{P(\kappa\ge T\mid \mathbf D_{1:T})}\) and compare to a threshold.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
