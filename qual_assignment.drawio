@@ -1,71 +1,74 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="lQH549756WOnZO1U8qBR">
-    <mxGraphModel dx="1018" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2066" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="1vGu4znpdyao7Po2rL7M-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-22">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-2" target="1vGu4znpdyao7Po2rL7M-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-2" value="&lt;p&gt;&lt;b&gt;Self Evaluation&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How would you describe yourself as a teacher?  Could be from the eye of  students, peers, or supervisors.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-2" value="&lt;p&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;b&gt;Sense of Self as a Teacher&lt;/b&gt;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How would you describe yourself as a teacher?  Could be from the eye of  students, peers, or supervisors.&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="70" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-3" value="&lt;p&gt;&lt;b&gt;Failure experiences&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Can you share a specific example where you felt you experienced failure in your teaching career?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-3" value="&lt;p&gt;&lt;b&gt;The Narrative of Failure&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Can you share a specific example where you felt you experienced failure in your teaching career?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="200" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-12">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-13">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-14">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-4" target="1vGu4znpdyao7Po2rL7M-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-4" value="&lt;p&gt;&lt;b&gt;Explain failure → self evaluation&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How do you think the feeling of failure have influenced the way you evaluate your ability as a teacher?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-4" value="&lt;p&gt;&lt;b&gt;Meaning-Making of Failure&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How do you think the feeling of failure have influenced the way you evaluate your ability as a teacher?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="330" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-5" value="&lt;p&gt;&lt;b&gt;Handling way → self evaluation&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do you think different ways of handling failure experiences affect how teachers evaluate themselves?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-5" value="&lt;p&gt;&lt;b&gt;Coping Strategies&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Do you think different ways of handling failure experiences affect how teachers evaluate themselves?&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="464.5" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-6" target="1vGu4znpdyao7Po2rL7M-8">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-6" target="1vGu4znpdyao7Po2rL7M-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" edge="1" parent="1" source="1vGu4znpdyao7Po2rL7M-6" target="1vGu4znpdyao7Po2rL7M-9">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" source="1vGu4znpdyao7Po2rL7M-6" target="1vGu4znpdyao7Po2rL7M-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-6" value="&lt;p&gt;&lt;b&gt;Change of handling way&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How has your approach to coping with failure feeling changed since you were a new teacher?&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-6" value="&lt;p&gt;&lt;b&gt;Professional Growth and Learning&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How has your approach to coping with failure feeling changed since you were a new teacher?&amp;nbsp;&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="100" y="610" width="150" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-8" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Can you describe specific strategies you used in the past and how they differ from those you use now?&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;I&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-8" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;Can you describe specific strategies you used in the past and how they differ from those you use now?&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;I&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="580" width="146" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-9" value="If you had another chance, how would you handle this situation? Would you approach it differently?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-9" value="If you had another chance, how would you handle this situation? Would you approach it differently?" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="690" width="166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-12" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How did you feel at that moment?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-12" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;How did you feel at that moment?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="325" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-13" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;What was your immediate reaction?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-13" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;What was your immediate reaction?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="375" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-14" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;From your perspective, what factors led to these feeling?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-14" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;From your perspective, what factors led to these feeling?&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="415" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-18" value="Success Experience&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-18" value="Success Experience&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1vGu4znpdyao7Po2rL7M-22" value="Failure Experience" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="1vGu4znpdyao7Po2rL7M-22" value="Failure Experience" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="310" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2uYsmaon7LyBfhK7LfT1-4" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;rotation=90;fillColor=light-dark(#ffe6cc, #39454e);strokeColor=#B5B5B5;fillStyle=auto;gradientColor=light-dark(#d5e8d4, #ededed);gradientDirection=east;" vertex="1" parent="1">
+          <mxGeometry x="-267.5" y="367.5" width="660" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
