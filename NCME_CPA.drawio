@@ -181,10 +181,10 @@
         <mxCell id="rplJDwAlL-Y5qZSeV7_r-84" value="$$FC_{l,n}$$" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="515" y="548" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-103" value="Item Uncompromised \(f_0\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-103" value="Item Uncompromised \(\sim f_0\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="75" y="120" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rplJDwAlL-Y5qZSeV7_r-104" value="Item Compromised \(f_1\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="rplJDwAlL-Y5qZSeV7_r-104" value="Item Compromised \(\sim f_1\)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="341.25" y="120" width="267.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ndhHJkL2Yc7zSno06L-X-19" value="$$\psi$$" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
