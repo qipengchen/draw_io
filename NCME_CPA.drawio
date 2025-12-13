@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7" pages="12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.7" pages="13">
   <diagram name="Model flowchart" id="gy4s0TE1F60DZMJvIQby">
     <mxGraphModel dx="2066" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -1472,6 +1472,89 @@
         </mxCell>
         <mxCell id="LCMv4cCXqLiF4geM5SqJ-1" parent="1" style="text;whiteSpace=wrap;html=1;fontSize=14;" value="&lt;div&gt;&lt;font face=&quot;Google Sans Text, sans-serif&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: transparent;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;Why Finite-Horizon PFA:&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul style=&quot;padding-top: 0px;&quot;&gt;&lt;li&gt;Intuitive Interpretation&lt;/li&gt;&lt;ul style=&quot;margin-top: 3px; padding-left: 10px;&quot;&gt;&lt;li&gt;TPFA limits the false alarm probability (\(\le \alpha\)) strictly within the item&#39;s operational lifespan (\(B\)).&lt;/li&gt;&lt;li&gt;Contrast: ARL defines an expectation over an infinite horizon, which is abstract and difficult to map to practical item retirement decisions2.&lt;br&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Computational Efficiency&lt;/span&gt;&lt;/li&gt;&lt;ul style=&quot;padding-left: 10px;&quot;&gt;&lt;li&gt;&lt;span class=&quot;citation-949&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Simulation strictly terminates at the horizon&amp;nbsp;&lt;/span&gt;\(B\) for&amp;nbsp;Finite-Horizon PFA&amp;nbsp;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;math-inline&quot; data-math=&quot;B&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;Calibrating ARL requires capturing the full distribution of run lengths&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span class=&quot;math-inline&quot; data-math=&quot;B&quot; style=&quot;line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;ARL (\(\text{ARL}_0=10\)): Simulation length must be \(\gg 10\) (e.g., 50-100) to capture long-tail trajectories and avoid underestimation.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;h4 data-path-to-node=&quot;11&quot; style=&quot;font-family: &amp;quot;Google Sans&amp;quot;, sans-serif !important; line-height: 1.15 !important; margin-top: 0px !important;&quot;&gt;&lt;/h4&gt;" vertex="1">
           <mxGeometry height="390" width="310" x="740" y="155" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fjxKa6P18OmyS5m71acg" name="Simulation Design">
+    <mxGraphModel dx="1851" dy="1898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span id=&quot;docs-internal-guid-b2a969ba-7fff-0620-b06b-f1876e9b1cae&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height:1.2;margin-left: 18pt;text-indent: -18pt;margin-top:12pt;margin-bottom:12pt;padding:0pt 0pt 0pt 18pt;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="400" x="14" y="-1039" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Simualtion 1 (Phase 1) and Simulation 2 (Phase2)&lt;/b&gt;&lt;span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;Goal:&lt;/font&gt;&lt;/b&gt; Evaluate the benefit of integrating FC in Retrospective (Phase I) and Online (Phase II) detection.&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Design Setup:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Comparators: BCP-1S (RA), BCP-2S (RA+RT), BCP-3S (Proposed).&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Time Window: 30-day incomplete block design.&amp;nbsp;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;span&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;Manipulated Conditions (\(2 \times 3 \times 2\))&lt;/font&gt;&lt;/b&gt;:&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Daily Sample Size (\(N_l\)): 200 vs. 400.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Compromise Prevalence (\(\psi\)): 5%, 10%, 15% (Sparse to Moderate)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;Process Data Informativeness: High vs. Low (Distributional separation)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Assumption: &lt;/b&gt;&lt;/font&gt;Response Time (RT) is reliable (No manipulation).&lt;/span&gt;" vertex="1">
+          <mxGeometry height="410" width="280" x="-280" y="-810" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Simualtion 3&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;font&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Goal: &lt;/b&gt;&lt;/font&gt;Assess model resilience against Response Time Manipulation (Pacing Strategies).&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;The Threat:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;Cheaters deliberately slow down to mimic normal pacing.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;\(RT\) becomes unreliable; \(FC\) acts as the safeguard.&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b style=&quot;color: rgb(18, 124, 62);&quot;&gt;Design Setup:&amp;nbsp; &lt;/b&gt;&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;same with Simulation 1 &amp;amp; 2&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Manipulation Mechanism:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;\(\log T_{\text{fake}} = \log T_{\text{target}} + e\), where \(T_{\text{target}} \sim \text{Normal Speed}\).&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;b&gt;Manipulated Conditions:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font&gt;High-Accuracy manipulation: \(e\sim \mathcal{N}(0, 0.5^2)\) (Harder to detect).&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font&gt;Low-Accuracy manipulation: \(e\sim \mathcal{N}(0, 1.0^2)\) (Easier to detect).&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;Control: &lt;/font&gt;&lt;/b&gt;\(N_l=200, \psi=10\%\).&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="460" width="360" x="40" y="-814" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-19" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="170" width="80" x="436" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-8" parent="vRyhMBRqWPOcM0I2-eDU-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Form 1A" vertex="1">
+          <mxGeometry height="30" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-9" parent="vRyhMBRqWPOcM0I2-eDU-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Form 2A" vertex="1">
+          <mxGeometry height="30" width="70" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-10" parent="vRyhMBRqWPOcM0I2-eDU-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Form 3A" vertex="1">
+          <mxGeometry height="30" width="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-11" parent="vRyhMBRqWPOcM0I2-eDU-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Form 5A" vertex="1">
+          <mxGeometry height="30" width="70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-12" parent="vRyhMBRqWPOcM0I2-eDU-19" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Form 4A" vertex="1">
+          <mxGeometry height="30" width="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-20" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="150" width="70" x="556" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-14" parent="vRyhMBRqWPOcM0I2-eDU-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Form 1B" vertex="1">
+          <mxGeometry height="30" width="70" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-15" parent="vRyhMBRqWPOcM0I2-eDU-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Form 2B" vertex="1">
+          <mxGeometry height="30" width="70" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-16" parent="vRyhMBRqWPOcM0I2-eDU-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Form 3B" vertex="1">
+          <mxGeometry height="30" width="70" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-17" parent="vRyhMBRqWPOcM0I2-eDU-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Form 5B" vertex="1">
+          <mxGeometry height="30" width="70" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-18" parent="vRyhMBRqWPOcM0I2-eDU-20" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Form 4B" vertex="1">
+          <mxGeometry height="30" width="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="210" width="90" x="426" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Set A&lt;span style=&quot;font-weight: 400;&quot;&gt;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="436" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-28" edge="1" parent="1" source="vRyhMBRqWPOcM0I2-eDU-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.72;entryY=0.017;entryDx=0;entryDy=0;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;entryPerimeter=0;" target="vRyhMBRqWPOcM0I2-eDU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;dashed=1;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="210" width="90" x="546" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Set B" vertex="1">
+          <mxGeometry height="30" width="60" x="561" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=#666666;fontColor=#333333;" value="[ Student&#39;s Exam ]&lt;br/&gt;  (1 from A) + (1 from B)&lt;br/&gt;      = 40 Items" vertex="1">
+          <mxGeometry height="60" width="200" x="446" y="-460" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-27" edge="1" parent="1" source="vRyhMBRqWPOcM0I2-eDU-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" target="vRyhMBRqWPOcM0I2-eDU-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=2;fontColor=#333333;" value="20 items per form" vertex="1">
+          <mxGeometry height="30" width="180" x="446" y="-400" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeWidth=3;strokeColor=light-dark(#127C3E,#EDEDED);" value="" vertex="1">
+          <mxGeometry height="440" width="250" x="414" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="vRyhMBRqWPOcM0I2-eDU-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="&lt;font style=&quot;color: light-dark(rgb(18, 124, 62), rgb(237, 237, 237));&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b&gt;Test Design&lt;/b&gt;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;i&gt;incomplete block design&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="436" y="-780" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
